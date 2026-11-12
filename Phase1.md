@@ -6,10 +6,10 @@ The purpose of this project is to develop and demonstrate practical skills in:
 - Networking
 - Identity Management
 - Security Monitoring
-- automation
+- Automation
 - Infrastructure Troubleshooting.
-## A Hands-on Systems Administration And Cybersecurity Lab Built On Proxmox VE.
-### <u>Initial Hardware Specs:</u>
+## A Hands-on Systems Administration And Cybersecurity Lab Built On Proxmox VE
+### <u>Initial Hardware Specs</u>
 - Refurbished Dell Precision T5810
 - Intel Xeon E5-2680 v3 Processor
 - 12 cores / 24 threads
@@ -17,7 +17,7 @@ The purpose of this project is to develop and demonstrate practical skills in:
 - 480 GB SSD
 - Proxmox VE hypervisor
 
-The refurbished Dell server was chosen for its balance between price and power. At a very reasonable cost, the machine provides enough RAM and processing power to run several virtual machines at the same time without any significant 
+The refurbished Dell server was chosen for its balance between price and power. At a very reasonable cost, the machine provides enough RAM and processing power to run several virtual machines at the same time without any significant lag or delays.
 ### Initial VM Installation
 Proxmox Virtual Environment V9.2, based on Debian Linux, is used as the hypervisor to manage all virtual machine instances.\
 Three virtual machines are created with the following names and operating systems:
